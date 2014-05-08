@@ -5,7 +5,7 @@ Arquivos para correção ortográfica. Você precisa ativar a correção ortogr�
         spell
         spelllang=en,pt_br
 
-Eu só utilizo isso para alguns tipos de arquivos. Minhas configurações estão em: [mateusbraga/vimconfig](http://github.com/mateusbraga/vimconfig).
+Eu só utilizo isso para alguns tipos de arquivos. Meus arquivos de configuração do vim estão em: [mateusbraga/vimconfig](http://github.com/mateusbraga/vimconfig).
 
 ## Instalação
 
